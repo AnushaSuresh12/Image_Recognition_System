@@ -1,5 +1,5 @@
-Visual_Recognition_System
- L1-PCA(Pricipal Component Analaysis)
- download data from KTH dataset with three classes and create a 
-In class make_dataset.py give the folder name as “./video dataset”
- run the main_class.py to run the code.
+Image recognition using L1-PCA single bit flipping concept.
+download Cropped Yale Dataset or Aberdeen dataset
+In class root_file.py give the folder name as “./dataset”
+run the main_class.py to run the code.
+
